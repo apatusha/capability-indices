@@ -1,7 +1,7 @@
  
 # Capability Indices in Statistical Quality Control
 
-This repository contains the final project for the course **Statistical Quality Control** at the Europa-Univärsitet Viadrina, authored by **Anastasiia Apatenko**. The work combines theoretical depth with practical implementation in **R**, using real process data to analyze and visualize **process capability indices (PCIs)**.
+This repository contains the final project for the course **Statistical Quality Control** at the Europa-Univärsitet Viadrina. The work combines theoretical depth with practical implementation in **R**, using real process data to analyze and visualize **process capability indices (PCIs)**.
 
 ## Author
 **Anastasiia Apatenko**  
