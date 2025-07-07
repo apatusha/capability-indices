@@ -5,7 +5,7 @@ This repository contains the final project for the course **Statistical Quality 
 
 ## Author
 **Anastasiia Apatenko**  
-Date of completion: June 23, 2024
+Date of completion: June 23, 2025
 
 ## Project Description
 
